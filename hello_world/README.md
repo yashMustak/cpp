@@ -11,11 +11,3 @@ int main(){
   return 0;
 } 
 ```
-
-```python
-
-def pyfunc(){
-  print("This is a python function.")
-}
-```
-
