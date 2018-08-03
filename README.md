@@ -1,6 +1,3 @@
-# Binary Planet
+# Introduction
 
-This is a complete guide to C++ programming.
-
-## About Us
-We are opensource and free.
+Hey folks, welcome to this one and only amazing C++ tutorial.
