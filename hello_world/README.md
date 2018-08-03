@@ -1,7 +1,7 @@
 # Hello World
 ## This is the first C++ program
 
-```c_cpp
+```cpp
 
 #include<iostream>
 using namespace std
