@@ -1,4 +1,6 @@
-# README
+# Binary Planet
 
-The complete ABC to XYZ C++ repository.
+This is a complete guide to C++ programming.
 
+## About Us
+We are opensource and free.
