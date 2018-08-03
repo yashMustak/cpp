@@ -1,5 +1,6 @@
 # Add Two Numbers
-## Add 2 Numbers
+
+This is a program to add two numbers.
 ```cpp
 #include<iostream>
 using namespace std;

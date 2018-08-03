@@ -1,8 +1,7 @@
-# Hello World
-## This is the first C++ program
+# First Program
 
+This would be your first C++ Program.
 ```cpp
-
 #include<iostream>
 using namespace std
 
