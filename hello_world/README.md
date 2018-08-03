@@ -12,3 +12,10 @@ int main(){
 } 
 ```
 
+```python
+
+def pyfunc(){
+  print("This is a python function.")
+}
+```
+
