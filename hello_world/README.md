@@ -1,11 +1,14 @@
 # Hello World
 ## This is the first C++ program
 
-'''markdown
+```c_cpp
 
-## include
-
+#include<iostream>
 using namespace std
 
-int main\(\){ cout&lt;&lt;"Hello World!"; return 0; } '''
+int main(){
+  cout<<"Hello World!"; 
+  return 0;
+} 
+```
 
